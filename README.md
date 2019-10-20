@@ -1,4 +1,4 @@
-# Experiencias y análisis de datos de la materia Laboratorio 3
+# Experiencias y análisis de datos en la materia Laboratorio 3
 
 Durante el transcurso de la materia Laboratorio 3 se estudiaron aplicaciones prácticas de Electricidad y Magnetismo.
 
